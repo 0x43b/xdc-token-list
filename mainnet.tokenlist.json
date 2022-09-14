@@ -3,7 +3,7 @@
   "timestamp": "2022-04-23T17:38:38.162Z",
   "version": {
     "major": 1,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
   "tags": {
@@ -91,6 +91,13 @@
       "name": "Bridged USDT",
       "symbol": "xUSDT",
       "decimals": 6
+    },
+    {
+      "chainId": 50,
+      "address": "0x1cae129Bc0dB1971EC8d5739f9506286a0068ca8",
+      "name": "XDCrystals",
+      "symbol": "GEM",
+      "decimals": 18
     }
   ]
 }
