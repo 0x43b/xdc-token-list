@@ -1,0 +1,34 @@
+{
+  "symbol": "BTCx",
+  "address": "0xb6E57fBB2D44092f75d9da2769FFc788ce931320",
+  "decimals": 8,
+  "name": "BitcoinX",
+  "type": "XRC20",
+  "ens_address": "",
+  "website": "",
+  "logo": {
+    "src": "https://twitter.com/BitcoinXDC/photo",
+    "width": "256",
+    "height": "256",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "https://twitter.com/bitcoinXDC",
+    "youtube": ""
+  }
+}
